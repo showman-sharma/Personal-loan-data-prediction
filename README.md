@@ -44,3 +44,14 @@ Attribute Information:
 13. Online : Does the customer use internet banking facilities?
 
 14. Credit card : Does the customer use a credit card issued by
+
+## Conclusion
+The following algorithms have given ultimate performace for the given data after scaling and upweighting with test and train accuracies greater than 99.5%
+
+1. Decision Tree (Unpruned)
+2. Decision Tree (Pruned)
+3. Bagging
+4. Gradient Boosing
+5. Adaboosting
+
+It is interesting to note that none of the aforementioned models has mispredicted false negatives.
