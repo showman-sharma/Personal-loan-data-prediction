@@ -46,7 +46,7 @@ Attribute Information:
 14. Credit card : Does the customer use a credit card issued by
 
 ## Conclusion
-The following models have given ultimate performace for the given data after scaling and upweighting with test and train accuracies greater than 99.5%
+The following models have given ultimate performace for the given data after scaling and upweighting with test and train scores greater than 99.5%
 
 1. Decision Tree (Unpruned)
 2. Decision Tree (Pruned)
